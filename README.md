@@ -13,5 +13,5 @@ Screencast Video:
 ## Tools Used
 - IDE: Visual Studio Code
 - Java: JDK 17
-- Screen Recorder: OBS Studio / Xbox Game Bar
+- Screen Recorder: Vimeo Screen Recorder
 - GitHub Copilot: Enabled
