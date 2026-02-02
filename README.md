@@ -8,7 +8,7 @@ GitHub Repository:
 https://github.com/vincent-r21/Project0-GitReady
 
 Screencast Video:
-(PASTE VIDEO LINK HERE)
+(https://vimeo.com/1160898076/d7e2bcd8b7)
 
 ## Tools Used
 - IDE: Visual Studio Code
